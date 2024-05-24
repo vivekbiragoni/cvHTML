@@ -1,2 +1,2 @@
-# HTML_cv
+# cvHTML
 This CV purely based on the HTML
