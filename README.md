@@ -1,2 +1,2 @@
 # HTML_cv
-to host the personal website
+This CV purely based on the HTML
